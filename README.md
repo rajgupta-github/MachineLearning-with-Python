@@ -15,3 +15,18 @@
 2. ipython
 3. pip install <package_name>
 4. pip3.7 freeze
+5. lsof -i :<port>
+6. kill -9 <pid>
+7. python3.7 app.py
+
+## ML Deployment
+
+Follow instructions in below article
+https://medium.com/datadriveninvestor/from-model-inception-to-deployment-adce1f5ed9d6
+
+How to run:
+cd ml_deployment
+docker-compose up
+
+If you want to test the predict(Post) method, use curl command or use Postman
+curl --header "Content-Type: application/json" --request POST --data '[{"sepal_length":6.3,"sepal_width":2.3,"petal_length":4.4,"petal_width":1.3}]' http://localhost:8080/predict
