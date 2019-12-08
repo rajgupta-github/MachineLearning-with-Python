@@ -18,6 +18,7 @@
 5. lsof -i :<port>
 6. kill -9 <pid>
 7. python3.7 app.py
+8. ssh-keygen -t rsa -C "rajkumargupta1@gmail.com" -f '/Users/rajkgupta/.ssh/id_rsa_personal'
 
 ## ML Deployment
 
