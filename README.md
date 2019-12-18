@@ -1,5 +1,8 @@
 # Machine Learning With Python
 
+![image.png](banner.png)
+
+
 ![ML Algorithms MindMap](MachineLearningAlgorithms-MindMap.png)
 
 ## How to Automatically Import Your Favorite Libraries into IPython or a Jupyter Notebook
