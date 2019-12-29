@@ -39,7 +39,7 @@ ___
 ___
 <a id=section4></a>
 ### [Spam detection](./projects/SpamDetection)
-![image.png](images/spam.jpg)<br><br>
+![image.png](images/spam.png)<br><br>
 - [Link for the Jupyter notebook](./projects/SpamDetection/SpamClassifier.ipynb)
 
 
