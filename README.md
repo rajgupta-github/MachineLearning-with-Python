@@ -12,7 +12,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 - [Customer Click on Facebook Ad Prediction](#section2)<br>
 - [Credit Fraud Detection](#section3)<br>
 - [Spam Detection](#section4)<br>
-- [Amazon Reviews Classification]()<br>
+- [Amazon Reviews Classification](#section5)<br>
 
 
 ___
@@ -39,7 +39,7 @@ ___
 ___
 <a id=section4></a>
 ### [Spam detection](./projects/SpamDetection)
-![image.png](images/spam.png)<br><br>
+![image.png](images/spam.jpg)<br><br>
 - [Link for the Jupyter notebook](./projects/SpamDetection/SpamClassifier.ipynb)
 
 
