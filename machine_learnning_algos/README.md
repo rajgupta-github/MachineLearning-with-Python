@@ -1,1 +1,0 @@
-![ML Algorithms MindMap](MachineLearningAlgorithms-MindMap.png)

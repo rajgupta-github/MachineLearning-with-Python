@@ -1,4 +1,0 @@
-There is R code in the pre-read. 
-Don't panic
-Just try to understand the concept rather than it's implementation in R.
-Thank you
