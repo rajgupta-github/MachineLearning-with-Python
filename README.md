@@ -20,6 +20,10 @@ ___
 <a id=section1></a>
 ### [Indian Premier League Data Analysis](./projects/IPLDataAnalysis)
 ![image.jpg](images/ipl.png)<br><br>
+- Analyse key success factors for top cricket team at IPL
+- The matches dataset contains 18 variables and 600+ observations. 
+- The deliveries dataset contains 21 variables and 160k+ observations of
+  the IPL 2018 season.
 - [Link for the Jupyter notebook](/projects/IPLDataAnalysis/EDA_IPL.ipynb)
 
 ___
@@ -41,6 +45,7 @@ ___
 <a id=section4></a>
 ### [Credit Card Fraud Detection](./projects/CreditCardFraudDetection)
 ![image.jpg](images/creditcardfraud.png)<br>
+- Identify the fraudulent credit card transactions.
 - [Link for the Jupyter notebook](./projects/CreditCardFraudDetection/CreditCardFraudDetection.ipynb)
 
 
@@ -48,6 +53,7 @@ ___
 <a id=section5></a>
 ### [Spam detection](./projects/SpamDetection)
 ![image.png](images/spam.png)<br><br>
+- Classify collection of spam messages tagged as spam or legitimate.
 - [Link for the Jupyter notebook](./projects/SpamDetection/SpamClassifier.ipynb)
 
 
