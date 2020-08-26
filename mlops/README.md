@@ -1,0 +1,1 @@
+- LAVI demo (https://github.com/equester/mlops-plugin_2020)
